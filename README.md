@@ -1,0 +1,1 @@
+* Ce projet est mon Curriculum Vitae mais en version web. Ce site va permettre d'exposer mes talents et mes créations.
